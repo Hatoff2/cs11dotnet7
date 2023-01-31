@@ -1,0 +1,5 @@
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/obj/Debug/net6.0/Arrays.csproj.AssemblyReference.cache
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/obj/Debug/net6.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfoInputs.cache
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfo.cs
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/obj/Debug/net6.0/Arrays.csproj.CoreCompileInputs.cache

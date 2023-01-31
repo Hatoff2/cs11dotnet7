@@ -1,0 +1,15 @@
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter02/Arguments/bin/Debug/net6.0/Arguments
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter02/Arguments/bin/Debug/net6.0/Arguments.deps.json
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter02/Arguments/bin/Debug/net6.0/Arguments.runtimeconfig.json
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter02/Arguments/bin/Debug/net6.0/Arguments.dll
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter02/Arguments/bin/Debug/net6.0/Arguments.pdb
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter02/Arguments/obj/Debug/net6.0/Arguments.csproj.AssemblyReference.cache
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter02/Arguments/obj/Debug/net6.0/Arguments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter02/Arguments/obj/Debug/net6.0/Arguments.AssemblyInfoInputs.cache
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter02/Arguments/obj/Debug/net6.0/Arguments.AssemblyInfo.cs
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter02/Arguments/obj/Debug/net6.0/Arguments.csproj.CoreCompileInputs.cache
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter02/Arguments/obj/Debug/net6.0/Arguments.dll
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter02/Arguments/obj/Debug/net6.0/refint/Arguments.dll
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter02/Arguments/obj/Debug/net6.0/Arguments.pdb
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter02/Arguments/obj/Debug/net6.0/Arguments.genruntimeconfig.cache
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter02/Arguments/obj/Debug/net6.0/ref/Arguments.dll

@@ -1,15 +1,18 @@
-﻿string[] names; // can reference any size array of strings
+﻿Console.WriteLine("Ben Hatoff");
+
+Console.WriteLine("Version: {0}", Environment.Version.ToString());
+string[] names; // can reference any size array of strings
 
 // allocating memory for four strings in an array
 names = new string[4];
 
 // storing items at index positions
-names[0] = "Kate";
-names[1] = "Jack";
+names[0] = "Ben";
+names[1] = "Josh";
 names[2] = "Rebecca";
-names[3] = "Tom";
+names[3] = "Jr";
 
-string[] names2 = new[] { "Kate", "Jack", "Rebecca", "Tom" };
+string[] names2 = new[] { "Ben", "Josh", "Rebecca", "Jr" };
 
 // looping through the names
 for (int i = 0; i < names2.Length; i++)
@@ -21,7 +24,7 @@ for (int i = 0; i < names2.Length; i++)
 string[,] grid1 = new[,] // two dimensions
 {
   { "Alpha", "Beta", "Gamma", "Delta" },
-  { "Anne", "Ben", "Charlie", "Doug" },
+  { "Ben", "Josh", "Rebecca", "Jr" },
   { "Aardvark", "Bear", "Cat", "Dog" }
 };
 
@@ -42,12 +45,12 @@ for (int row = 0; row <= grid1.GetUpperBound(0); row++)
 string[,] grid2 = new string[3,4]; // allocate memory
 grid2[0, 0] = "Alpha"; // assign string values
 // and so on
-grid2[2, 3] = "Dog";
+grid2[2, 3] = "Cat";
 
 string[][] jagged = new[] // array of string arrays
 {
   new[] { "Alpha", "Beta", "Gamma" },
-  new[] { "Anne", "Ben", "Charlie", "Doug" },
+  new[] { "Ben", "Josh", "Rebecca", "Jr" },
   new[] { "Aardvark", "Bear" }
 };
 

@@ -1,0 +1,15 @@
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/bin/Debug/net7.0/Arrays
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/bin/Debug/net7.0/Arrays.dll
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/bin/Debug/net7.0/Arrays.pdb
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/obj/Debug/net7.0/Arrays.dll
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/obj/Debug/net7.0/Arrays.pdb
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/Users/ben/REPOS/cs11dotnet7/vscode/Chapter03/Arrays/obj/Debug/net7.0/ref/Arrays.dll
